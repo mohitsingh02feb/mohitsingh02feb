@@ -1,0 +1,48 @@
+/******************************Tag Selector ******************/
+
+
+body{ background-color: aqua;
+}
+
+hr{
+    border-style:dotted none none;
+    border-color:grey ;
+    border-width:15px;
+    width:15%;
+ }
+
+ h1{
+    color: chocolate;
+ }
+
+ h3{
+    color: darkblue;
+ }
+
+ img:hover{
+   background-color: gold;
+ }
+/******************************Class Selector ******************/
+ .bacon {
+   background-color: green;
+ }
+
+ .broccoli {
+   background-color: red;
+ }
+/******************************ID Selector ******************/
+
+#heading{
+   font-size: 100px;
+}
+
+/*
+Class Seclector--more than one tag can be used in the class at a time
+->A single class name cant be used twice
+
+ID Selector--> only one tag can be used inside the id selector at a time
+--->a single ID can't be used twice in a program
+
+hover--> used to change the background colour of a picture if we take the cursor to that image
+
+*/
